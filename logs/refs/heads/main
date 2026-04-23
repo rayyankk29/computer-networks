@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 b299a3e3c9e5cf76e1dd35e1cb5c3d8e28157b7b Martin Brain <martin.brain@city.ac.uk> 1740943636 +0000	commit (initial): Set up a .gitignore file for working with Java
+b299a3e3c9e5cf76e1dd35e1cb5c3d8e28157b7b 98bc857314289ea1d9bde321bda6ed67e60bf261 Martin Brain <martin.brain@city.ac.uk> 1740943666 +0000	commit: A helper class for material we will cover in future weeks
+98bc857314289ea1d9bde321bda6ed67e60bf261 3242c0d76519809fecd150b65a661039d610155b Martin Brain <martin.brain@city.ac.uk> 1740943706 +0000	commit: The file that needs to be completed for the coursework
+3242c0d76519809fecd150b65a661039d610155b 518bb200473e63a1d097d694100817cbe49c02f0 Martin Brain <martin.brain@city.ac.uk> 1740943738 +0000	commit: An automated test program for some of the functionality of Node
+518bb200473e63a1d097d694100817cbe49c02f0 db865302bad7dc097f3d914afc4baf7a9f20306e Martin Brain <martin.brain@city.ac.uk> 1740943750 +0000	commit: A template for documentation
